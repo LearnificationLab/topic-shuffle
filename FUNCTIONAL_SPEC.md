@@ -11,6 +11,9 @@ Language teachers need a lightweight, embeddable web activity that prompts learn
 - As a learner, I want an optional tip/answer variant so I can scaffold my response.
 - As a learner, I want to record whether I answered with or without a tip so I can track my independent performance.
 - As a teacher, I want the app to be embeddable (iframe) and require no server-side components.
+ - As a learner, I want the session to start with a simple start screen that shows the session `topic`, the total number of questions available, and a prominent `Start` button so I can confirm the activity before beginning.
+ - As a learner, I want, while the session is running, a small, unobtrusive display that shows my current `score` and the number of questions remaining so I can monitor progress without being distracted.
+ - As a learner, when the session finishes, I want a short summary page that shows my final `score`, how many questions I answered, how many times I viewed tips, and how many times I viewed translations so I can reflect on my performance.
 
 ## Functional Requirements (must-haves)
 
@@ -21,10 +24,17 @@ Language teachers need a lightweight, embeddable web activity that prompts learn
 5. Provide two controls to move forward: `Skip` to move to the next random question without changing score, and `Answered` which records the learner's result, updates the session score according to the scoring rules below, and moves to the next random question.
 6. UI should be simple, accessible, and mobile-friendly (tailwind CSS allowed).
 7. The app must be static (HTML/CSS/JS) and embeddable in an iframe.
+8. On initial page load the app shows a lightweight start screen (not the first question): it displays the `topic` (if present in `questions.json`), the total number of questions available, and a `Start` button. The session counters (for score, tip/translation views, counts) must be initialized but not incremented until the learner starts the session. Clicking `Start` transitions the UI into the main application mode and displays the first random question.
+9. During an active session the UI must include a small, non-distracting status element that shows the learner's current `score` and the number of questions remaining. Design must keep this element minimal (small font, compact layout) so it does not distract from the question content.
+10. When the session is finished (for example after a configured number of questions or when the learner chooses to end the session), the app shows a concise end-of-session summary page with: final `score`, `answeredCount`, `skippedCount`, `tipShown` (how many times tips were viewed), and `translationsShown` (how many times translations were viewed).
 
 ## Acceptance Criteria
 
 - On page load (or on first use), the app fetches and parses an external JSON file (`questions.json`) in the same origin and loads the question set — PASS.
+ - On page load, after successfully loading `questions.json`, the app shows a start screen that includes the `topic` (when present), the total number of questions, and a visible `Start` button; no question should be shown until the learner clicks `Start` — PASS.
+ - Given the start screen, when the learner clicks `Start`, the app transitions to the main application mode, initializes session counters (score, tipShown, translationsShown, asked/skipped/answered counts), and displays the first random question — PASS.
+ - During the session, a small status element is visible showing the current `score` and number of questions remaining; the display must be compact and not interrupt the question content — PASS.
+ - When the session ends, the app shows an end-of-session summary page containing: final `score`, `answeredCount`, `skippedCount`, `tipShown` and `translationsShown` (counts of tip and translation views) — PASS.
 - Given a loaded page, when the learner clicks `Next question`, a question from the loaded data is shown (not always the same) — PASS.
 - Given a shown question, when the learner clicks `Translate`, a translation text appears beneath the question — PASS.
 - Given a shown question, when the learner clicks `Tip`, the tip (single hint) appears and the app increments the `tipShown` session counter — PASS.
@@ -73,6 +83,8 @@ Language teachers need a lightweight, embeddable web activity that prompts learn
 
 - Question: { text, translation, tip }
 - Session stats (in-memory or localStorage): { totalAsked, tipShown, translationsShown, score, answeredCount, skippedCount }
+ - Session stats (in-memory or localStorage): { totalAsked, tipShown, translationsShown, score, answeredCount, skippedCount }
+	- End-of-session summary fields: { score, answeredCount, skippedCount, tipShown, translationsShown }
 
 Per-question transient state (not stored in JSON): { currentQuestionId, tipViewed: boolean, translationViewed: boolean }
 
