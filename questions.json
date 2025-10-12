@@ -1,0 +1,20 @@
+{
+  "topic": "Sample",
+  "questions": [
+    {
+      "text": "What is your favorite hobby?",
+      "translation": "¿Cuál es tu pasatiempo favorito?",
+      "tip": "Name one activity you enjoy."
+    },
+    {
+      "text": "Describe your hometown.",
+      "translation": "Describe tu ciudad natal.",
+      "tip": "Mention landmarks or size."
+    },
+    {
+      "text": "Tell me about a memorable meal.",
+      "translation": "Habla sobre una comida memorable.",
+      "tip": "Where, who, and why it mattered."
+    }
+  ]
+}
