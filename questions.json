@@ -1,20 +1,105 @@
 {
   "topic": "Sample",
   "questions": [
-    {
-      "text": "What is your favorite hobby?",
-      "translation": "¿Cuál es tu pasatiempo favorito?",
-      "tip": "Name one activity you enjoy."
-    },
-    {
-      "text": "Describe your hometown.",
-      "translation": "Describe tu ciudad natal.",
-      "tip": "Mention landmarks or size."
-    },
-    {
-      "text": "Tell me about the most memorable meal.",
-      "translation": "Habla sobre una comida memorable.",
-      "tip": "Where, who, and why it mattered."
-    }
+  {
+    "text": "Hva er din favorittfarge?",
+    "translation": "Какой твой любимый цвет?",
+    "tip": "Jeg liker blå. / Favorittfargen min er mørkeblå, fordi den minner meg om havet."
+  },
+  {
+    "text": "Hva er din favorittdrikke?",
+    "translation": "Какой твой любимый напиток?",
+    "tip": "Jeg liker kaffe. / Jeg foretrekker svart kaffe uten sukker."
+  },
+  {
+    "text": "Hva er din favorittårstid?",
+    "translation": "Какое твоё любимое время года?",
+    "tip": "Jeg liker sommer. / Jeg liker sommeren fordi det er varmt og lyst."
+  },
+  {
+    "text": "Hva er din favorittmåned i året?",
+    "translation": "Какой твой любимый месяц в году?",
+    "tip": "Jeg liker juli. / Favorittmåneden min er juli, fordi jeg har bursdag da."
+  },
+  {
+    "text": "Hva er din favorittdag i uken?",
+    "translation": "Какой твой любимый день недели?",
+    "tip": "Jeg liker lørdag. / Jeg liker lørdag fordi jeg kan sove lenge og slappe av."
+  },
+  {
+    "text": "Hva er din favorittsang?",
+    "translation": "Какая твоя любимая песня?",
+    "tip": "Jeg liker «Happy». / Favorittsangen min er «Imagine» av John Lennon."
+  },
+  {
+    "text": "Hva er ditt favoritt-TV-program?",
+    "translation": "Какая твоя любимая телепередача?",
+    "tip": "Jeg liker nyheter. / Favorittprogrammet mitt er en dokumentarserie på NRK."
+  },
+  {
+    "text": "Hva foretrekker du: te eller kaffe?",
+    "translation": "Что ты предпочитаешь: чай или кофе?",
+    "tip": "Jeg foretrekker kaffe. / Jeg liker begge, men drikker mest kaffe om morgenen."
+  },
+  {
+    "text": "Hva foretrekker du: ferie i fjellet eller ferie ved stranden?",
+    "translation": "Что ты предпочитаешь: отдых в горах или на пляже?",
+    "tip": "Jeg liker stranden. / Jeg foretrekker fjellet fordi jeg liker å gå tur."
+  },
+  {
+    "text": "Hva foretrekker du: gå en tur eller bli hjemme og se en film?",
+    "translation": "Что ты предпочитаешь: прогулку или остаться дома и посмотреть фильм?",
+    "tip": "Jeg liker å gå tur. / Jeg går helst en tur, men noen ganger ser jeg film hjemme."
+  },
+  {
+    "text": "Liker du å spise på restaurant?",
+    "translation": "Тебе нравится есть в ресторане?",
+    "tip": "Ja, jeg liker det. / Jeg liker å spise ute med venner av og til."
+  },
+  {
+    "text": "Liker du regn?",
+    "translation": "Тебе нравится дождь?",
+    "tip": "Nei, ikke så mye. / Ja, jeg liker regn fordi det er koselig å være inne da."
+  },
+  {
+    "text": "Liker du å danse?",
+    "translation": "Тебе нравится танцевать?",
+    "tip": "Ja, litt. / Ja, jeg elsker å danse når jeg hører musikk."
+  },
+  {
+    "text": "Driver du med sport?",
+    "translation": "Ты занимаешься спортом?",
+    "tip": "Ja, jeg spiller fotball. / Jeg trener to ganger i uka på et treningssenter."
+  },
+  {
+    "text": "Hva er din favorittsport?",
+    "translation": "Какой твой любимый вид спорта?",
+    "tip": "Jeg liker fotball. / Favorittsporten min er svømming fordi det er avslappende."
+  },
+  {
+    "text": "Hva er din favorittferie (høytid)?",
+    "translation": "Какой твой любимый праздник?",
+    "tip": "Jeg liker jul. / Jeg liker jul fordi jeg feirer den med familien min."
+  },
+  {
+    "text": "Liker du å lage mat?",
+    "translation": "Ты любишь готовить?",
+    "tip": "Ja, litt. / Ja, jeg liker å lage mat når jeg har tid."
+  },
+  {
+    "text": "Hva slags mat foretrekker du, salt eller søtt?",
+    "translation": "Какую еду ты предпочитаешь: солёную или сладкую?",
+    "tip": "Jeg liker søtt. / Jeg foretrekker salt mat, som pizza og pasta."
+  },
+  {
+    "text": "Liker du å reise?",
+    "translation": "Ты любишь путешествовать?",
+    "tip": "Ja, jeg liker det. / Ja, jeg elsker å reise og oppleve nye kulturer."
+  },
+  {
+    "text": "Hva er drømmejobben din?",
+    "translation": "Какая у тебя работа мечты?",
+    "tip": "Jeg vil bli lærer. / Drømmejobben min er å jobbe som språklærer i utlandet."
+  }
   ]
 }
