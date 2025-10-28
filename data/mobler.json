@@ -1,0 +1,557 @@
+{
+  "topic": "Møbler",
+  "questions": [
+  {
+    "text": "Hvor står spisebordet i leiligheten din?",
+    "translation": "Где стоит обеденный стол в твоей квартире?",
+    "hint": [
+      "A1: Spisebordet står på kjøkkenet.",
+      "A2+: Spisebordet står mellom kjøkkenet og stua, ved vinduet."
+    ]
+  },
+  {
+    "text": "Hva henger på veggene dine?",
+    "translation": "Что висит на твоих стенах?",
+    "hint": [
+      "A1: Det henger bilder på veggene.",
+      "A2+: Jeg har noen bilder og plakater på veggene."
+    ]
+  },
+  {
+    "text": "Hvor mange stoler har du hjemme?",
+    "translation": "Сколько у тебя дома стульев?",
+    "hint": [
+      "A1: Jeg har fire stoler.",
+      "A2+: Jeg tror jeg har seks stoler hjemme, men jeg bruker bare to til vanlig."
+    ]
+  },
+  {
+    "text": "Har du teppe i stua di?",
+    "translation": "Есть ли у тебя ковёр в гостиной?",
+    "hint": [
+      "A1: Ja, jeg har et teppe.",
+      "A2+: Nei, jeg har ikke teppe i stua, jeg har parkett."
+    ]
+  },
+  {
+    "text": "Hva står på nattbordet ditt?",
+    "translation": "Что стоит на твоей тумбочке?",
+    "hint": [
+      "A1: Det står en lampe.",
+      "A2+: På nattbordet mitt står det en liten lampe og mobilen min."
+    ]
+  },
+  {
+    "text": "Hvor har du klesskapet ditt?",
+    "translation": "Где у тебя стоит шкаф для одежды?",
+    "hint": [
+      "A1: Skapet står på soverommet.",
+      "A2+: Jeg har et stort klesskap på soverommet, ved siden av senga."
+    ]
+  },
+  {
+    "text": "Hva slags lamper har du på soverommet ditt?",
+    "translation": "Какие лампы у тебя в спальне?",
+    "hint": [
+      "A1: Jeg har en liten lampe.",
+      "A2+: Jeg har en nattbordslampe og en liten taklampe med varmt lys."
+    ]
+  },
+  {
+    "text": "Hvilken farge er gardinene dine?",
+    "translation": "Какого цвета твои шторы?",
+    "hint": [
+      "A1: Gardinene er hvite.",
+      "A2+: Gardinene mine er lysegrå, ganske tynne."
+    ]
+  },
+  {
+    "text": "Hva ligger under senga di?",
+    "translation": "Что лежит под твоей кроватью?",
+    "hint": [
+      "A1: Ingenting ligger under senga.",
+      "A2+: Jeg har noen esker under senga med gamle ting."
+    ]
+  },
+  {
+    "text": "Hvilke bilder har du på veggene dine?",
+    "translation": "Какие картины у тебя на стенах?",
+    "hint": [
+      "A1: Jeg har bilder av familien.",
+      "A2+: Jeg har bilder av familien og noen små plakater."
+    ]
+  },
+  {
+    "text": "Hvor står TV-en din?",
+    "translation": "Где стоит твой телевизор?",
+    "hint": [
+      "A1: TV-en står i stua.",
+      "A2+: TV-en står i stua, foran sofaen."
+    ]
+  },
+  {
+    "text": "Har du bokhylle? Hva står i bokhylla di?",
+    "translation": "У тебя есть книжная полка? Что стоит на книжной полке?",
+    "hint": [
+      "A1: Ja, jeg har en bokhylle med bøker.",
+      "A2+: I bokhylla står det bøker, noen bilder og litt pynt."
+    ]
+  },
+  {
+    "text": "Har du skrivebordet hjemme?",
+    "translation": "У тебя есть письменный стол дома?",
+    "hint": [
+      "A1: Ja, jeg har et skrivebord.",
+      "A2+: Ja, jeg har et skrivebord på soverommet, der jeg jobber og studerer."
+    ]
+  },
+  {
+    "text": "Hva slags stoler har du på kjøkkenet ditt?",
+    "translation": "Какие стулья у тебя на кухне?",
+    "hint": [
+      "A1: Jeg har to vanlige stoler.",
+      "A2+: Jeg har fire hvite kjøkkenstoler i tre."
+    ]
+  },
+  {
+    "text": "Har du et speil hjemme? Hvor henger speilet ditt?",
+    "translation": "У тебя есть зеркало дома? Где висит твоё зеркало?",
+    "hint": [
+      "A1: Ja, det henger på badet.",
+      "A2+: Ja, jeg har et speil i gangen ved døra."
+    ]
+  },
+  {
+    "text": "Hvilken farge er sofaen din?",
+    "translation": "Какого цвета твой диван?",
+    "hint": [
+      "A1: Sofaen er grå.",
+      "A2+: Sofaen min er mørkegrå og ganske stor."
+    ]
+  },
+  {
+    "text": "Hvilken farge er veggene i stua di?",
+    "translation": "Какого цвета стены в гостиной?",
+    "hint": [
+      "A1: Veggene er hvite.",
+      "A2+: Veggene er lysegrå, det gjør rommet lyst."
+    ]
+  },
+  {
+    "text": "Hvilken farge er kjøkkenbordet ditt?",
+    "translation": "Какого цвета твой кухонный стол?",
+    "hint": [
+      "A1: Bordet er hvitt.",
+      "A2+: Kjøkkenbordet mitt er lyst tre og ganske enkelt."
+    ]
+  },
+  {
+    "text": "Hvilken farge er stolene dine på kjøkkenet?",
+    "translation": "Какого цвета стулья на кухне?",
+    "hint": [
+      "A1: De er svarte.",
+      "A2+: Stolene er hvite, med svarte puter."
+    ]
+  },
+  {
+    "text": "Hvilken farge er teppet ditt i stua?",
+    "translation": "Какого цвета ковёр в гостиной?",
+    "hint": [
+      "A1: Teppet er blått.",
+      "A2+: Teppet mitt er beige og passer til sofaen."
+    ]
+  },
+  {
+    "text": "Hvilken farge er døra til rommet ditt?",
+    "translation": "Какого цвета дверь в твою комнату?",
+    "hint": [
+      "A1: Døra er hvit.",
+      "A2+: Døra er hvit, som de andre dørene i leiligheten."
+    ]
+  },
+  {
+    "text": "Hvilken farge er skapet ditt på soverommet?",
+    "translation": "Какого цвета шкаф в спальне?",
+    "hint": [
+      "A1: Skapet er hvitt.",
+      "A2+: Skapet på soverommet er hvitt og ganske stort."
+    ]
+  },
+  {
+    "text": "Hvilken farge er skrivebordet ditt?",
+    "translation": "Какого цвета письменный стол?",
+    "hint": [
+      "A1: Det er brunt.",
+      "A2+: Skrivebordet mitt er lyst tre og veldig enkelt."
+    ]
+  },
+  {
+    "text": "Hvilken farge er hyllene dine i stua?",
+    "translation": "Какого цвета полки в гостиной?",
+    "hint": [
+      "A1: De er hvite.",
+      "A2+: Jeg har hvite hyller med bøker og pynt."
+    ]
+  },
+  {
+    "text": "Hvilken farge er lampene dine?",
+    "translation": "Какого цвета твои лампы?",
+    "hint": [
+      "A1: De er svarte.",
+      "A2+: Lampene mine er svarte med varmt lys."
+    ]
+  },
+  {
+    "text": "Hvilken farge er putene i sofaen din?",
+    "translation": "Какого цвета подушки на диване?",
+    "hint": [
+      "A1: Putene er blå.",
+      "A2+: Putene er lysegrå og grønne."
+    ]
+  },
+  {
+    "text": "Hvilken farge er kjøleskapet ditt?",
+    "translation": "Какого цвета холодильник?",
+    "hint": [
+      "A1: Kjøleskapet er hvitt.",
+      "A2+: Kjøleskapet mitt er hvitt, som de fleste kjøleskap."
+    ]
+  },
+  {
+    "text": "Hvilken farge er kommoden din?",
+    "translation": "Какого цвета комод?",
+    "hint": [
+      "A1: Kommoden er brun.",
+      "A2+: Kommoden min er hvit og ganske gammel."
+    ]
+  },
+  {
+    "text": "Hvilken farge er stolen du bruker mest hjemme?",
+    "translation": "Какого цвета стул, которым ты чаще всего пользуешься дома?",
+    "hint": [
+      "A1: Den er svart.",
+      "A2+: Den stolen jeg bruker mest er grå med en pute."
+    ]
+  },
+  {
+    "text": "Hvilken farge er dørene i leiligheten din?",
+    "translation": "Какого цвета двери в квартире?",
+    "hint": [
+      "A1: De er hvite.",
+      "A2+: Alle dørene i leiligheten er hvite."
+    ]
+  },
+  {
+    "text": "Hvilken farge er senga di?",
+    "translation": "Какого цвета кровать?",
+    "hint": [
+      "A1: Senga er hvit.",
+      "A2+: Senga mi er hvit, med en mørk madrass."
+    ]
+  },
+  {
+    "text": "Hvilken farge er bildet du liker best på veggen?",
+    "translation": "Какого цвета картина, которая тебе нравится больше всего?",
+    "hint": [
+      "A1: Det er blått.",
+      "A2+: Det bildet jeg liker best har blå og grønne farger."
+    ]
+  },
+  {
+    "text": "Hvilken farge er nattbordet ditt?",
+    "translation": "Какого цвета тумбочка?",
+    "hint": [
+      "A1: Nattbordet er hvitt.",
+      "A2+: Nattbordet mitt er hvitt og ganske lite."
+    ]
+  },
+  {
+    "text": "Hva står på kjøkkenbenken din?",
+    "translation": "Что стоит на кухонной столешнице?",
+    "hint": [
+      "A1: Det står en vannkoker.",
+      "A2+: På kjøkkenbenken står det en vannkoker, brødrister og litt frukt."
+    ]
+  },
+  {
+    "text": "Hvor setter du skoene dine når du kommer hjem?",
+    "translation": "Куда ты ставишь обувь, когда приходишь домой?",
+    "hint": [
+      "A1: Jeg setter skoene i gangen.",
+      "A2+: Jeg setter skoene i gangen, ved døra."
+    ]
+  },
+  {
+    "text": "Hvilken farge har døra di?",
+    "translation": "Какого цвета твоя входная дверь?",
+    "hint": [
+      "A1: Døra mi er hvit.",
+      "A2+: Døra mi er hvit, som de andre dørene i leiligheten."
+    ]
+  },
+  {
+    "text": "Hvor oppbevarer du tallerkenene og koppene dine?",
+    "translation": "Где ты хранишь тарелки и кружки?",
+    "hint": [
+      "A1: I skapet på kjøkkenet.",
+      "A2+: I et overskap over benken på kjøkkenet."
+    ]
+  },
+  {
+    "text": "Hvor ligger fjernkontrollen din når du ser på TV?",
+    "translation": "Где лежит пульт, когда ты смотришь ТВ?",
+    "hint": [
+      "A1: Den ligger på bordet.",
+      "A2+: Fjernkontrollen ligger vanligvis på stuebordet foran sofaen."
+    ]
+  },
+  {
+    "text": "Har du planter hjemme? Hvor står plantene dine?",
+    "translation": "У тебя есть растения? Где они стоят?",
+    "hint": [
+      "A1: Ja, i vinduet.",
+      "A2+: Ja, i stua, mest i vinduet fordi det er mye lys."
+    ]
+  },
+  {
+    "text": "Hvor legger du mobilen din når du er hjemme?",
+    "translation": "Куда ты кладёшь телефон дома?",
+    "hint": [
+      "A1: På bordet.",
+      "A2+: Jeg legger mobilen på kjøkkenbordet eller i stua."
+    ]
+  },
+  {
+    "text": "Har du bilder av familien din hjemme? Hvor står de?",
+    "translation": "У тебя есть фотографии семьи? Где они стоят?",
+    "hint": [
+      "A1: De står på en hylle.",
+      "A2+: De står på en hylle i stua ved siden av TV-en."
+    ]
+  },
+  {
+    "text": "Hvor spiser du frokost i leiligheten din?",
+    "translation": "Где ты завтракаешь в квартире?",
+    "hint": [
+      "A1: På kjøkkenet.",
+      "A2+: Ved kjøkkenbordet, ofte med kaffe."
+    ]
+  },
+  {
+    "text": "Har du noe under sofaen din?",
+    "translation": "Есть ли что-нибудь под диваном?",
+    "hint": [
+      "A1: Nei, ingenting.",
+      "A2+: Jeg har noen esker og småting under sofaen."
+    ]
+  },
+  {
+    "text": "Hva står på kjøleskapet ditt?",
+    "translation": "Что стоит на холодильнике?",
+    "hint": [
+      "A1: Ingenting.",
+      "A2+: Noen bokser og litt mat står på kjøleskapet."
+    ]
+  },
+  {
+    "text": "Hvor mange vinduer har du i stua di?",
+    "translation": "Сколько окон в гостиной?",
+    "hint": [
+      "A1: To vinduer.",
+      "A2+: Jeg har to store vinduer med mye lys."
+    ]
+  },
+  {
+    "text": "Hva står på hylla di på soverommet?",
+    "translation": "Что стоит на полке в спальне?",
+    "hint": [
+      "A1: Noen bøker.",
+      "A2+: På hylla står det bøker, et bilde og litt pynt."
+    ]
+  },
+  {
+    "text": "Hvor setter du veska eller sekken din når du kommer hjem?",
+    "translation": "Куда ты ставишь сумку или рюкзак, когда приходишь домой?",
+    "hint": [
+      "A1: I gangen.",
+      "A2+: Jeg setter veska i gangen, ved siden av skohylla."
+    ]
+  },
+  {
+    "text": "Hvilke møbler har du på balkongen din?",
+    "translation": "Какая мебель у тебя на балконе?",
+    "hint": [
+      "A1: En stol.",
+      "A2+: To stoler og et lite bord om sommeren."
+    ]
+  },
+  {
+    "text": "Hva slags gulv har du i rommet ditt – teppe, parkett eller fliser?",
+    "translation": "Какой пол в твоей комнате — ковёр, паркет или плитка?",
+    "hint": [
+      "A1: Parkett.",
+      "A2+: Jeg har parkett og et lite teppe ved senga."
+    ]
+  },
+  {
+    "text": "Hva er en koselig kveld for deg?",
+    "translation": "Что для тебя уютный вечер?",
+    "hint": [
+      "A1: Film og te.",
+      "A2+: En film, noe godt å spise og litt ro."
+    ]
+  },
+  {
+    "text": "Hva gjør du for å få det koselig hjemme?",
+    "translation": "Что ты делаешь, чтобы дома было уютно?",
+    "hint": [
+      "A1: Jeg tenner lys.",
+      "A2+: Jeg tenner lys, rydder litt og setter på rolig musikk."
+    ]
+  },
+  {
+    "text": "Liker du å tenne lys om kvelden?",
+    "translation": "Ты любишь зажигать свечи вечером?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, det gir rolig stemning."
+    ]
+  },
+  {
+    "text": "Synes du stearinlys gjør det koselig?",
+    "translation": "Ты считаешь, что свечи делают атмосферу уютной?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, det blir varmt og hyggelig."
+    ]
+  },
+  {
+    "text": "Hva slags musikk liker du å høre på når du vil slappe av?",
+    "translation": "Какую музыку ты слушаешь, когда хочешь расслабиться?",
+    "hint": [
+      "A1: Rolig musikk.",
+      "A2+: Rolig musikk eller jazz."
+    ]
+  },
+  {
+    "text": "Har du et favorittpledd?",
+    "translation": "У тебя есть любимый плед?",
+    "hint": [
+      "A1: Ja, et grått pledd.",
+      "A2+: Ja, et mykt og varmt pledd."
+    ]
+  },
+  {
+    "text": "Liker du å krølle deg sammen under et teppe?",
+    "translation": "Ты любишь укутываться в плед?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, det er veldig koselig når det er kaldt."
+    ]
+  },
+  {
+    "text": "Hva slags vær synes du passer best til å kose seg inne?",
+    "translation": "Какая погода лучше всего для уютного вечера дома?",
+    "hint": [
+      "A1: Regn.",
+      "A2+: Regn eller snø, da liker jeg å være inne."
+    ]
+  },
+  {
+    "text": "Hva gjør du når du vil koble av?",
+    "translation": "Что ты делаешь, чтобы расслабиться?",
+    "hint": [
+      "A1: Jeg ser på TV.",
+      "A2+: Jeg ser en serie eller leser litt."
+    ]
+  },
+  {
+    "text": "Tror du det er viktig å ha det ryddig for å få koselig stemning?",
+    "translation": "Считаешь ли ты, что порядок важен для уюта?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, litt ryddighet gjør det hyggeligere."
+    ]
+  },
+  {
+    "text": "Hva slags mat synes du er koselig?",
+    "translation": "Какая еда для тебя уютная?",
+    "hint": [
+      "A1: Suppe.",
+      "A2+: Varm mat, som suppe eller kakao."
+    ]
+  },
+  {
+    "text": "Lager du ofte noe varmt å drikke, som kakao eller te?",
+    "translation": "Ты часто готовишь что-нибудь тёплое попить, например какао или чай?",
+    "hint": [
+      "A1: Ja, te.",
+      "A2+: Ja, jeg drikker te nesten hver kveld."
+    ]
+  },
+  {
+    "text": "Hva liker du å spise når du har kveldskos?",
+    "translation": "Что ты любишь есть, когда проводишь уютный вечер?",
+    "hint": [
+      "A1: Sjokolade.",
+      "A2+: Litt frukt eller sjokolade."
+    ]
+  },
+  {
+    "text": "Hvilken mat forbinder du med familiekos?",
+    "translation": "Какая еда у тебя ассоциируется с семейным уютом?",
+    "hint": [
+      "A1: Kake.",
+      "A2+: Pizza eller kakao om vinteren."
+    ]
+  },
+  {
+    "text": "Tror du man kan kose seg alene med god mat?",
+    "translation": "Можно ли уютно провести вечер одному с вкусной едой?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, bare med god mat og film."
+    ]
+  },
+  {
+    "text": "Liker du familiekos?",
+    "translation": "Ты любишь семейный уют?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, det er hyggelig å være sammen."
+    ]
+  },
+  {
+    "text": "Synes du det er koselig å være sammen med venner i helgen?",
+    "translation": "Приятно ли тебе проводить время с друзьями в выходные?",
+    "hint": [
+      "A1: Ja.",
+      "A2+: Ja, det er koselig når alle har fri."
+    ]
+  },
+  {
+    "text": "Hva slags aktiviteter gir deg en følelse av ro?",
+    "translation": "Какие занятия дают тебе чувство спокойствия?",
+    "hint": [
+      "A1: Lese.",
+      "A2+: Lese, høre på musikk eller gå en tur."
+    ]
+  },
+  {
+    "text": "Hvordan føler du deg når du har det koselig?",
+    "translation": "Как ты себя чувствуешь, когда тебе уютно?",
+    "hint": [
+      "A1: Glad.",
+      "A2+: Rolig og avslappet."
+    ]
+  },
+  {
+    "text": "Når følte du deg sist trygg og avslappet?",
+    "translation": "Когда ты в последний раз чувствовал(а) себя спокойно и безопасно?",
+    "hint": [
+      "A1: I går hjemme.",
+      "A2+: Sist jeg følte meg trygg og avslappet var hjemme om kvelden da jeg så film."
+    ]
+  }
+]
+}  
