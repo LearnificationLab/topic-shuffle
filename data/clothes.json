@@ -1,0 +1,309 @@
+{
+  "topic": "Klær",
+  "questions": [
+    {
+      "text": "What colour is your coat?",
+      "translation": "Какого цвета у тебя пальто?",
+      "hint": [
+        "My coat is black.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you have a jacket?",
+      "translation": "У тебя есть куртка?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you wear a scarf in winter?",
+      "translation": "Ты носишь шарф зимой?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Are you wearing gloves now?",
+      "translation": "Ты сейчас в перчатках?",
+      "hint": [
+        "No, I’m not.",
+        "Yes, I’m. I wear it every day."
+      ]
+    },
+    {
+      "text": "What shoes do you like?",
+      "translation": "Какие туфли тебе нравятся?",
+      "hint": [
+        "I like black shoes.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you have white trainers?",
+      "translation": "У тебя есть белые кроссовки?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you wear boots in winter?",
+      "translation": "Ты носишь сапоги зимой?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you wear a suit to work?",
+      "translation": "Ты носишь костюм на работу?",
+      "hint": [
+        "No, I don’t.",
+        "Yes, I do. I wear it every day."
+      ]
+    },
+    {
+      "text": "Do you like hats?",
+      "translation": "Ты любишь шляпы?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "What colour are your socks?",
+      "translation": "Какого цвета у тебя носки?",
+      "hint": [
+        "They are blue.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you wear skirts?",
+      "translation": "Ты носишь юбки?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you wear a tie?",
+      "translation": "Ты носишь галстук?",
+      "hint": [
+        "No, I don’t.",
+        "Yes, I do. I wear it every day."
+      ]
+    },
+    {
+      "text": "What colour is your T-shirt?",
+      "translation": "Какого цвета у тебя футболка?",
+      "hint": [
+        "It is green.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you have a watch?",
+      "translation": "У тебя есть часы?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Is your shirt white or blue?",
+      "translation": "Твоя рубашка белая или синяя?",
+      "hint": [
+        "It is white.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you wear dresses?",
+      "translation": "Ты носишь платья?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Are you wearing a ring now?",
+      "translation": "Ты сейчас в кольце?",
+      "hint": [
+        "No, I’m not.",
+        "Yes, I’m. I wear it every day."
+      ]
+    },
+    {
+      "text": "Do you have a belt?",
+      "translation": "У тебя есть ремень?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Is your jumper warm?",
+      "translation": "Твой свитер тёплый?",
+      "hint": [
+        "Yes, it is.",
+        "No, it is."
+      ]
+    },
+    {
+      "text": "Are your trousers black?",
+      "translation": "Твои брюки чёрные?",
+      "hint": [
+        "No, they are grey.",
+        "Yes, they are grey. I wear it every day."
+      ]
+    },
+    {
+      "text": "Do you wear jeans every day?",
+      "translation": "Ты носишь джинсы каждый день?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you wear shorts in summer?",
+      "translation": "Ты носишь шорты летом?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Are you wearing tights now?",
+      "translation": "Ты сейчас в колготках?",
+      "hint": [
+        "No, I’m not.",
+        "Yes, I’m. I wear it every day."
+      ]
+    },
+    {
+      "text": "Do you wear glasses?",
+      "translation": "Ты носишь очки?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you wear sunglasses in summer?",
+      "translation": "Ты носишь солнечные очки летом?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "What colour are your pyjamas?",
+      "translation": "Какого цвета твоя пижама?",
+      "hint": [
+        "They are pink.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you have a handbag?",
+      "translation": "У тебя есть сумочка?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "What is in your bag today?",
+      "translation": "Что в твоей сумке сегодня?",
+      "hint": [
+        "A book and a phone.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Do you have an umbrella?",
+      "translation": "У тебя есть зонт?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "Do you carry a suitcase?",
+      "translation": "Ты носишь чемодан?",
+      "hint": [
+        "Yes, I do.",
+        "No, I don’t. because I don’t like it."
+      ]
+    },
+    {
+      "text": "How many shirts do you have?",
+      "translation": "Сколько у тебя рубашек?",
+      "hint": [
+        "I have four shirts.",
+        "I don’t know. Maybe two or three."
+      ]
+    },
+    {
+      "text": "How many dresses do you have?",
+      "translation": "Сколько у тебя платьев?",
+      "hint": [
+        "I have two dresses.",
+        "I don’t know. Maybe two or three."
+      ]
+    },
+    {
+      "text": "What are you wearing today?",
+      "translation": "Что на тебе надето сегодня?",
+      "hint": [
+        "I’m wearing jeans and a red T-shirt.",
+        "I’m wearing a sweater and trousers."
+      ]
+    },
+    {
+      "text": "What is the person in front of you wearing?",
+      "translation": "Что надето на человеке напротив?",
+      "hint": [
+        "He is wearing a blue jacket.",
+        "I’m wearing a sweater and trousers."
+      ]
+    },
+    {
+      "text": "How many pairs of shoes do you have?",
+      "translation": "Сколько у тебя пар обуви?",
+      "hint": [
+        "I have six pairs of shoes.",
+        "I don’t know. Maybe two or three."
+      ]
+    },
+    {
+      "text": "How many jackets do you have?",
+      "translation": "Сколько у тебя курток?",
+      "hint": [
+        "I have three jackets.",
+        "I don’t know. Maybe two or three."
+      ]
+    },
+    {
+      "text": "What colour are your clothes today?",
+      "translation": "Какого цвета твоя одежда сегодня?",
+      "hint": [
+        "My clothes are blue and white.",
+        "I don’t know. Maybe it’s red."
+      ]
+    },
+    {
+      "text": "Is your friend wearing a coat now?",
+      "translation": "На твоём друге сейчас пальто?",
+      "hint": [
+        "Yes, he is.",
+        "No, he is."
+      ]
+    }
+  ]
+}
